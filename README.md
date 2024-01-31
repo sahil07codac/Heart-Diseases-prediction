@@ -13,15 +13,18 @@ In this project, we delve into a dataset encapsulating various health metrics fr
 
 The objectives of the project are as follows:
 
-Data Understanding: Familiarize ourselves with the dataset and its features.
+# Data Understanding:
+ Familiarize ourselves with the dataset and its features.
 
-Exploratory Data Analysis (EDA): Unveil patterns, trends, and relationships between different variables.
+# Exploratory Data Analysis (EDA): 
+Unveil patterns, trends, and relationships between different variables.
 
 Univariate Analysis
 
 Bivariate Analysis
 
-Data Preprocessing: Prepare the data for future machine learning tasks.
+# Data Preprocessing:
+Prepare the data for future machine learning tasks.
 
 Remove irrelevant features
 
@@ -33,7 +36,8 @@ Encode categorical variables
 
 Transform skewed features to achieve normal-like distributions
 
-Model Building: Develop and refine the prediction models.
+# Model Building:
+Develop and refine the prediction models.
 
 Establish pipelines for models that require scaling
 
@@ -41,4 +45,5 @@ Implement and tune classification models including KNN, SVM, Decision Tree, and 
 
 Emphasize achieving high recall for class 1, ensuring comprehensive identification of heart patients
 
-Evaluate and Compare Model Performance: Utilize precision, recall, and F1-score to gauge models' effectiveness.
+# Evaluate and Compare Model Performance:
+Utilize precision, recall, and F1-score to gauge models' effectiveness.
